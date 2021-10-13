@@ -1,1 +1,1 @@
-# A simple react counter sample
+# A simple react countdown timer sample
